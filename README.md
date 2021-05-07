@@ -1,1 +1,1 @@
-lesson-7:Link 组件实现导航
+lesson-8:导航到动态路由
