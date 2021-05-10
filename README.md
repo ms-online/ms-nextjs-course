@@ -1,1 +1,1 @@
-lesson-12:添加 getStaticProps 函数
+lesson-13:运行服务端代码&使用文件系统
