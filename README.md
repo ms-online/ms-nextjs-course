@@ -1,1 +1,1 @@
-lesson-21:getStaticPaths 幕后花絮
+lesson-22:fallback 的作用
