@@ -1,1 +1,1 @@
-lesson-18:静态生成中的动态参数
+lesson-19:动态页面需要引入 getStaticPaths
