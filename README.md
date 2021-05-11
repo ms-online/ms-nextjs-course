@@ -1,1 +1,1 @@
-lesson-16:ISR 幕后花絮（生产环境下）
+lesson-17:深入了解 getStaticProps 及可选配置
