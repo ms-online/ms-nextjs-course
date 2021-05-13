@@ -1,1 +1,1 @@
-lesson-26:使用 getServerSide 实现服务器端预渲染
+lesson-27:getServerSideProps 和 context 上下文
