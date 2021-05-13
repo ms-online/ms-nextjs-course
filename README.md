@@ -1,1 +1,1 @@
-lesson-28:动态页面的 getServerSideProps
+lesson-29:getServerSideProps 幕后花絮
