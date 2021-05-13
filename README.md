@@ -1,1 +1,1 @@
-lesson-30:nextjs 客户端数据获取
+lesson-31:使用 swr 方法
