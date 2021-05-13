@@ -1,1 +1,1 @@
-lesson-27:getServerSideProps 和 context 上下文
+lesson-28:动态页面的 getServerSideProps
