@@ -1,1 +1,1 @@
-lesson-25:什么是服务器端渲染（SSR）
+lesson-26:使用 getServerSide 实现服务器端预渲染
