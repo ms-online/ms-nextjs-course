@@ -11,12 +11,27 @@ function HomePage() {
     const enteredName = nameInputRef.current.value
     const enteredEmail = emailInputRef.current.value
     const feedback = feedbackInputRef.current.value
+    const reqBody = {
+      name: enteredName,
+      email: enteredEmail,
+      feedback: feedback,
+    }
+    //发起POST请求
+    fetch('/api/feedback', {
+      method: 'POST',
+      body: JSON.stringify(reqBody),
+      headers: {
+        'Content-Type': 'application/json',
+      },
+    })
+      .then((response) => response.json())
+      .then((data) => console.log(data))
   }
 
   return (
     <div>
       <h1>主页</h1>
-      <form onsubmit={submitFormHandler}>
+      <form onSubmit={submitFormHandler}>
         <div>
           <label htmlFor='name'>姓名：</label>
           <input type='text' id='name' ref={nameInputRef} />
