@@ -1,1 +1,1 @@
-lesson-38:使用 API 路由实现预渲染页面
+lesson-39:动态 API 路由
